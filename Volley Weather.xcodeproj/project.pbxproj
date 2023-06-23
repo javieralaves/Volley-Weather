@@ -12,6 +12,7 @@
 		59A30C442A45873B00AFD81E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 59A30C432A45873B00AFD81E /* Assets.xcassets */; };
 		59A30C472A45873B00AFD81E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 59A30C462A45873B00AFD81E /* Preview Assets.xcassets */; };
 		59B652042A45B848009D8F79 /* DayItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59B652032A45B848009D8F79 /* DayItem.swift */; };
+		59B652062A45B91F009D8F79 /* ForecastData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59B652052A45B91F009D8F79 /* ForecastData.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		59A30C432A45873B00AFD81E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		59A30C462A45873B00AFD81E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		59B652032A45B848009D8F79 /* DayItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DayItem.swift; sourceTree = "<group>"; };
+		59B652052A45B91F009D8F79 /* ForecastData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForecastData.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 				59A30C3F2A45873A00AFD81E /* Volley_WeatherApp.swift */,
 				59A30C412A45873A00AFD81E /* ContentView.swift */,
 				59B652032A45B848009D8F79 /* DayItem.swift */,
+				59B652052A45B91F009D8F79 /* ForecastData.swift */,
 				59A30C432A45873B00AFD81E /* Assets.xcassets */,
 				59A30C452A45873B00AFD81E /* Preview Content */,
 			);
@@ -142,6 +145,7 @@
 			files = (
 				59A30C422A45873A00AFD81E /* ContentView.swift in Sources */,
 				59B652042A45B848009D8F79 /* DayItem.swift in Sources */,
+				59B652062A45B91F009D8F79 /* ForecastData.swift in Sources */,
 				59A30C402A45873A00AFD81E /* Volley_WeatherApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
