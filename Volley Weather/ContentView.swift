@@ -8,6 +8,10 @@
 import SwiftUI
 
 struct ContentView: View {
+    
+    @State var nextDays: [DayItem] = [DayItem]()
+    var forecastData = ForecastData()
+    
     var body: some View {
         ZStack {
             Color(.black)

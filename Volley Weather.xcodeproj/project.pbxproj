@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5952FA982A4702970060CD27 /* ForecastCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5952FA972A4702970060CD27 /* ForecastCard.swift */; };
 		59A30C402A45873A00AFD81E /* Volley_WeatherApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59A30C3F2A45873A00AFD81E /* Volley_WeatherApp.swift */; };
 		59A30C422A45873A00AFD81E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59A30C412A45873A00AFD81E /* ContentView.swift */; };
 		59A30C442A45873B00AFD81E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 59A30C432A45873B00AFD81E /* Assets.xcassets */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		5952FA972A4702970060CD27 /* ForecastCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForecastCard.swift; sourceTree = "<group>"; };
 		59A30C3C2A45873A00AFD81E /* Volley Weather.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Volley Weather.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		59A30C3F2A45873A00AFD81E /* Volley_WeatherApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Volley_WeatherApp.swift; sourceTree = "<group>"; };
 		59A30C412A45873A00AFD81E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -57,6 +59,7 @@
 			children = (
 				59A30C3F2A45873A00AFD81E /* Volley_WeatherApp.swift */,
 				59A30C412A45873A00AFD81E /* ContentView.swift */,
+				5952FA972A4702970060CD27 /* ForecastCard.swift */,
 				59B652032A45B848009D8F79 /* DayItem.swift */,
 				59B652052A45B91F009D8F79 /* ForecastData.swift */,
 				59A30C432A45873B00AFD81E /* Assets.xcassets */,
@@ -145,6 +148,7 @@
 			files = (
 				59A30C422A45873A00AFD81E /* ContentView.swift in Sources */,
 				59B652042A45B848009D8F79 /* DayItem.swift in Sources */,
+				5952FA982A4702970060CD27 /* ForecastCard.swift in Sources */,
 				59B652062A45B91F009D8F79 /* ForecastData.swift in Sources */,
 				59A30C402A45873A00AFD81E /* Volley_WeatherApp.swift in Sources */,
 			);
